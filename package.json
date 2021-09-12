@@ -1,0 +1,20 @@
+{
+  "name": "fb-wahlwerbung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-array": "^3.0.1",
+    "d3-dsv": "^3.0.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.6.0",
+    "pg-format": "^1.0.4"
+  }
+}
