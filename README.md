@@ -1,0 +1,3 @@
+# Facebook Wahlwerbung
+
+This collection of scripts is made to process and clean up data that is publicly availbale from [Facebook's Public Ads Library on political advertising](https://www.facebook.com/ads/library/report/). There are also other scripts available that process the data that is available via the [API](https://www.facebook.com/ads/library/api). In order to run these, an access token is required which can be set as a `FB_ACCESS_TOKEN` environment variable.
