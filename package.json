@@ -6,6 +6,10 @@
   "type": "module",
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "update-data": "node ./scripts/create-date-data.js",
+    "upload-data": "node -r dotenv/config ./scripts/upload-data.js"
+  },
   "dependencies": {
     "d3-array": "^3.0.1",
     "d3-dsv": "^3.0.1",
